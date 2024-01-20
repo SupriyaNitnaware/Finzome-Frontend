@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.container
+{
+  width: 60% !important;
+}
+
+.card
+{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+th,td
+{
+  word-wrap: break-word;
+}
